@@ -60,9 +60,6 @@ Examples:
 EOF
 }
 
-# ... (rest of the script remains the same)
-# (I'm omitting the rest of the script for brevity as it was already provided and corrected)
-
 while [[ "$#" -gt 0 ]]; do
     case $1 in
     -H | --host)
